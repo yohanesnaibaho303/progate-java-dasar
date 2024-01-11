@@ -1,26 +1,43 @@
 import java.util.Scanner;
-public class JavaLatihan_I {
+
+class JavaLatihan_I {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Nama depan: ");
-        String firstName = scanner.next();
+        System.out.print("Jumlah orang: ");
+        int orang = scanner.nextInt();
 
-        System.out.print("Nama belakang: ");
-        String lastName = scanner.next();
+        int maxAge = 0;
+        int totalAge = 0;
 
-        String name = firstName + " " + lastName;
+        for (int i = 0; i < orang; i++){
+            System.out.println("Orang ke " + (i + 1));
 
-        System.out.print("Usia: ");
-        int age = scanner.nextInt();
+            System.out.print("Nama depan: ");
+            String firstName = scanner.next();
 
-        System.out.println("Nama saya adalah " + name + ".");
-        System.out.println("Saya berusia " + age + " tahun.");
+            System.out.print("Nama belakang: ");
+            String lastName = scanner.next();
 
-        if (age >= 18){
-            System.out.println("Saya sudah dewasa.");
-        } else {
-            System.out.println("Saya belum dewasa.");
+            System.out.print("Usia: ");
+            int age = scanner.nextInt();
+
+
+            if (age > maxAge) {
+                maxAge = age;
+            }
+            totalAge = totalAge + age;
+
+            System.out.print("Tinggi Badan(m): ");
+            double height = scanner.nextDouble();
+
+            System.out.print("Berat Badan(kg): ");
+            double weight = scanner.nextDouble();
+
+            PersonLatihan_I.printData(firstName, lastName, age, height, weight);
         }
+        System.out.println("Usia tertua: " + maxAge + ".");
+
+        System.out.println("Usia rata-rata: " + totalAge / orang + ".");
     }
 }
