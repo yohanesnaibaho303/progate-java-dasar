@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd261d2d-13eb-4858-b720-b724dd0a1a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JavaStudyAkhir_III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PersonLatihan_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person_III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bicycle_Latihan_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car_Latihan_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaLatihan_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaLatihan_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaLatihan_I.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,32 +29,49 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2akJ58mHgiaV3j54b0C8FwsLjv6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.JavaLatihan_I.executor": "Run",
-    "Application.JavaStudyAkhir_I.executor": "Run",
-    "Application.JavaStudyAkhir_II.executor": "Run",
-    "Application.JavaStudyAkhir_III.executor": "Run",
-    "Application.JavaStudyAkhir_asd.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Person_III.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.JavaLatihan_I.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStudyAkhir_I.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStudyAkhir_II.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStudyAkhir_III.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaStudyAkhir_asd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Person_III.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="JavaLatihan_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaLatihan_II" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaLatihan_II" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,7 +83,12 @@
       <workItem from="1704856460481" duration="6901000" />
       <workItem from="1704899700166" duration="608000" />
       <workItem from="1704902498693" duration="597000" />
-      <workItem from="1704934251130" duration="2496000" />
+      <workItem from="1704934251130" duration="3359000" />
+      <workItem from="1704939008499" duration="1297000" />
+      <workItem from="1704958940693" duration="8000" />
+      <workItem from="1705149722037" duration="35000" />
+      <workItem from="1705407629452" duration="5000" />
+      <workItem from="1705932190406" duration="342000" />
     </task>
     <servers />
   </component>
