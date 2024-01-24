@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd261d2d-13eb-4858-b720-b724dd0a1a73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bicycle_Latihan_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Car_Latihan_II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaLatihan_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +36,14 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.JavaLatihan_I.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaLatihan_II.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaStudyAkhir_I.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaStudyAkhir_II.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaStudyAkhir_III.executor&quot;: &quot;Run&quot;,
     &quot;Application.JavaStudyAkhir_asd.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Person_III.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeTestQ.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -58,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JavaStudyAKhir_IV">
     <configuration name="JavaLatihan_II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaLatihan_II" />
       <module name="belajar-java-dasar" />
@@ -66,8 +65,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaStudyAKhir_IV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyAKhir_IV" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaStudyAkhir_III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStudyAkhir_III" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeTestQ" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeTestQ" />
+      <module name="belajar-java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaStudyAKhir_IV" />
+        <item itemvalue="Application.JavaStudyAkhir_III" />
         <item itemvalue="Application.JavaLatihan_II" />
       </list>
     </recent_temporary>
@@ -88,7 +110,9 @@
       <workItem from="1704958940693" duration="8000" />
       <workItem from="1705149722037" duration="35000" />
       <workItem from="1705407629452" duration="5000" />
-      <workItem from="1705932190406" duration="342000" />
+      <workItem from="1705932190406" duration="621000" />
+      <workItem from="1705934044427" duration="384000" />
+      <workItem from="1705934544764" duration="87000" />
     </task>
     <servers />
   </component>
